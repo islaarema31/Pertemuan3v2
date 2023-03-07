@@ -131,9 +131,9 @@
                     <!-- Post -->
                     <div class="post">
                       <div class="user-block">
-                        <img class="img-circle img-bordered-sm" src="../../dist/img/user6-128x128.jpg" alt="User Image">
+                        <img class="img-circle img-bordered-sm" src="{{ asset('/dist/img/isla.jpg') }}" alt="User Image">
                         <span class="username">
-                          <a href="#">Adam Jones</a>
+                          <a href="#">Muhammad Islahuddin</a>
                           <a href="#" class="float-right btn-tool"><i class="fas fa-times"></i></a>
                         </span>
                         <span class="description">Posted 5 photos - 5 days ago</span>

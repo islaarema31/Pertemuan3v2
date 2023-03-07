@@ -33,13 +33,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="{{ route('isla') }}" class="nav-link">
+                <a href="{{Route('profil', ['id'=>'isla'])}}" class="nav-link">
                   <i class="far fa-user nav-icon"></i>
                   <p>Muhammad Islahuddin</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="{{ route('abhel') }}" class="nav-link">
+                <a href="{{Route('profil', ['id'=>'abhel'])}}" class="nav-link">
                   <i class="far fa-user nav-icon"></i>
                   <p>Zhubair Abhel</p>
                 </a>

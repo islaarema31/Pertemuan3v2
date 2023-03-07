@@ -14,8 +14,8 @@
           Profile
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="{{ route('isla') }}">Muhammad Islahuddin</a>
-          <a class="dropdown-item" href="{{ route('abhel') }}">Zhubair Abhel</a>
+          <a class="dropdown-item" href="{{Route('profil', ['id'=>'isla'])}}">Muhammad Islahuddin</a>
+          <a class="dropdown-item" href="{{Route('profil', ['id'=>'abhel'])}}">Zhubair Abhel</a>
         </div>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
