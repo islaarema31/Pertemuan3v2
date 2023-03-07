@@ -23,7 +23,10 @@
 
     <!-- Main content -->
     <section class="content">
-
+      <script>{
+          alert("Selamat Datang");
+        }
+        </script>        
       <!-- Default box -->
       <div class="card">
         <div class="card-header">

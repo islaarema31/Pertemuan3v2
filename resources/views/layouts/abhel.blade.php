@@ -114,7 +114,7 @@
                     <!-- Post -->
                     <div class="post">
                       <div class="user-block">
-                        <img class="img-circle img-bordered-sm" src="{{ asset('/dist/img/isla.jpg') }}" alt="user image">
+                        <img class="img-circle img-bordered-sm" src="{{ asset('/dist/img/abhel.jpeg') }}" alt="user image">
                         <span class="username">
                           <a href="#">Zhubair Abhel</a>
                           <a href="#" class="float-right btn-tool"><i class="fas fa-times"></i></a>
