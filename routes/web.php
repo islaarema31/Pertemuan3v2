@@ -21,7 +21,7 @@ Route::get('/dashboard', [App\Http\Controllers\HomeController::class, 'index'])-
 
 Route::prefix('profil')->group(function () {
     Route::get('/muhammad-islahuddin', [App\Http\Controllers\ProfilController::class, 'isla'])->name('isla');
-    Route::get('/zubair-abhel', [App\Http\Controllers\ProfilController::class, 'abhel'])->name('abhel');
+    Route::get('/zhubair-abhel', [App\Http\Controllers\ProfilController::class, 'abhel'])->name('abhel');
 });
 
 Route::get('/pengalaman', [App\Http\Controllers\PengalamanController::class, 'pengalaman'])->name('pengalaman');

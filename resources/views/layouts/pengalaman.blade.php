@@ -66,15 +66,13 @@
                       <div class="user-block">
                         <img class="img-circle img-bordered-sm" src="../../dist/img/user7-128x128.jpg" alt="User Image">
                         <span class="username">
-                          <a href="#">Sarah Ross</a>
+                          <a href="#">Zhubair Abhel</a>
                         </span>
                         <span class="description">Sent you a message - 3 days ago</span>
                       </div>
                       <!-- /.user-block -->
                       <p>
-                        Lorem ipsum represents a long-held tradition for designers,
-                        typographers and the like. Some people hate it and argue for
-                        its demise, but others ignore.
+                        Artinya apa bang Messi?
                       </p>
                       <p>
                         <a href="#" class="link-black text-sm"><i class="fas fa-link mr-1"></i> Demo File 2</a>

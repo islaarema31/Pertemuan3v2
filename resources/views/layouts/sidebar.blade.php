@@ -41,7 +41,7 @@
               <li class="nav-item">
                 <a href="{{ route('abhel') }}" class="nav-link">
                   <i class="far fa-user nav-icon"></i>
-                  <p>Zubair Abhel</p>
+                  <p>Zhubair Abhel</p>
                 </a>
               </li>
             </ul>
